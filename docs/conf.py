@@ -16,7 +16,7 @@ sys.path.insert(0, os.path.abspath('..'))
 project = 'django_cityloc_pkg_codelife808'
 copyright = '2022, Jarvis Johnson Baker'
 author = 'Jarvis Johnson Baker'
-release = '0.0.4'
+release = '0.0.5'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
